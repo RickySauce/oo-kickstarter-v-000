@@ -5,5 +5,5 @@ attr_accessor :backers, :name
    @name = name
    @backers = []
  end
-   
+
 end
